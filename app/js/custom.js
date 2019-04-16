@@ -306,8 +306,8 @@ $('.video-popup').photobox('a',{
 	zoomable:true //Включить, отключить увеличение колесиком мыши
 });
 
-/*new WOW().init();*/
+new WOW().init();
 
 
-$(window).bind('load', handler);
-$(window).bind('resize', handler);
+/*$(window).bind('load', handler);
+$(window).bind('resize', handler);*/
